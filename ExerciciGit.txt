@@ -1,3 +1,7 @@
 Exercici Git
 
+<<<<<<< HEAD
 Segona modificació des de Master
+=======
+Modificació branch1
+>>>>>>> branch1
